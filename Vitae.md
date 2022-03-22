@@ -8,10 +8,13 @@ Seja bem vindo ao meu Github!
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="MSA-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original .svg">
-  <img align="center" alt="MSA-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original .svg">
-  <img align="center" alt="MSA-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain .svg">
-  
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original .svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original .svg">
+  <img align="center" alt="MSA-HTML" height="40" width="40" src="https://github.com/1984MSA/ManoelAraujo_Vitae/blob/main/Logo/Screenshot_1.png">
+  <img align="center" alt="MSA-CSS" height="40" width="40" src="https://github.com/1984MSA/ManoelAraujo_Vitae/blob/main/Logo/Screenshot_2.png">
+  <img align="center" alt="MSA-Js" height="40" width="40" src="https://github.com/1984MSA/ManoelAraujo_Vitae/blob/main/Logo/Screenshot_3.png">
+  <img align="center" alt="MSA-php" height="40" width="40" src="https://github.com/1984MSA/ManoelAraujo_Vitae/blob/main/Logo/Screenshot_5.png">
+  <img align="center" alt="MSA-python" height="40" width="40" src="https://github.com/1984MSA/ManoelAraujo_Vitae/blob/main/Logo/Screenshot_6.png">
+  <img align="center" alt="MSA-ts" height="40" width="40" src="https://github.com/1984MSA/ManoelAraujo_Vitae/blob/main/Logo/Screenshot_7.png">
+  <img align="center" alt="MSA-angular" height="40" width="40" src="https://github.com/1984MSA/ManoelAraujo_Vitae/blob/main/Logo/Screenshot_9.png">
+  <img align="center" alt="MSA-vs" height="40" width="40" src="https://github.com/1984MSA/ManoelAraujo_Vitae/blob/main/Logo/Screenshot_4.png">
+  <img align="center" alt="MSA-react" height="40" width="40" src="https://github.com/1984MSA/ManoelAraujo_Vitae/blob/main/Logo/Screenshot_8.png">
 </div>
